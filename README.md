@@ -36,4 +36,6 @@ print('Hello world!')
 
 Nota: possiamo digitare i comandi da terminale più velocemente usando qualche trucchetto. Premendo `tab` dopo aver digitato qualche carattere viene completato automaticamente il nome del file. Premendo la freccia in alto si richiama l'ultimo comando (usando *freccia su* e *freccia giù* potete navigare lo storico dei comandi digitati).
 
+### Utilizzare l'ambiente Idle
+
 Proviamo a eseguire lo stesso programma nell'ambiente *Idle*, incluso nell'installazione standard di Python. Cerchiamo e apriamo *Idle* sul nostro computer. Si aprirà una finestra con la *shell* che ci permette di inviare comandi direttamente all'interprete Python. Andiamo ora sul menù *file*, scegliamo *open* e apriamo il file *ciao.py* che abbiamo editato prima in VS Code. Si aprirà la finestra dell'editor, dove possiamo vedere e modificare il nostro programma. Accediamo da questa finestra al menù *Run* e selezioniamo *Run module*. Il programma verrà eseguito e l'output visualizzato sulla shell.
