@@ -540,5 +540,6 @@ Vi propongo in chiusura alcuni esercizi, parzialmente già risolti in classe.
 > #### Esercizio 3.3
 >
 > Usando ancora le due liste costruite per l'esempio precedente, calcolate la materia in cui andate meglio. Visualizzate poi sullo schermo un messaggio come questo (utilizzando i vostri dati):
+> 
 > *La materia in cui vai meglio è matematica. In matematica hai preso finora i seguenti voti: 7, 8, 9, 10*
 >
